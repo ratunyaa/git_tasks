@@ -1,0 +1,4 @@
+python3 -m pip install
+pip install os-sys
+pip install psycopg2
+pip install python-dotenv
